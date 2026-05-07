@@ -9,7 +9,7 @@ export default function App() {
         <div className="badge">AWS CodeBuild + CodeDeploy</div>
 
         {/* <h1>🚀 EC2 Nginx 배포 성공-v2</h1> */}
-        <h1>🟢 Green 환경 v2 배포 성공</h1>
+        <h1>🟢 Green 환경 v2 배포 성공!</h1>
         <p className="subtitle">
           이 페이지는 CodeBuild에서 React 앱을 빌드한 뒤,
           CodeDeploy가 EC2 인스턴스의 Nginx 웹 루트에 배포한 결과입니다.
